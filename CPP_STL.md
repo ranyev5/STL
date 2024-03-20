@@ -10,6 +10,8 @@ g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
 Copyright (C) 2021 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+$ uname -a
+Linux ling 6.5.0-26-generic #26~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Mar 12 10:22:43 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
 ### STL源码下载
@@ -44,11 +46,7 @@ A --> G("alloocator")
 
 ```
 
-## 容器
 
-### vector
-
-vector(动态数组)
 
 
 
