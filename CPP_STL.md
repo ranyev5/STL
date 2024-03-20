@@ -44,6 +44,12 @@ A --> G("alloocator")
 
 ```
 
+## 容器
+
+### vector
+
+vector(动态数组)
+
 
 
 
